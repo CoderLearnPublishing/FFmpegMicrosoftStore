@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "FFmpeg", "FFmpeg\FFmpeg.wapproj", "{CA72CA8B-4BD8-4561-A869-B0934F3628CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|ARM.Build.0 = Debug|ARM
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|x64.ActiveCfg = Debug|x64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|x64.Build.0 = Debug|x64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|x64.Deploy.0 = Debug|x64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|x86.ActiveCfg = Debug|x86
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|x86.Build.0 = Debug|x86
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Debug|x86.Deploy.0 = Debug|x86
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|ARM.ActiveCfg = Release|ARM
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|ARM.Build.0 = Release|ARM
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|ARM.Deploy.0 = Release|ARM
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|ARM64.Build.0 = Release|ARM64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|ARM64.Deploy.0 = Release|ARM64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|x64.ActiveCfg = Release|x64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|x64.Build.0 = Release|x64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|x64.Deploy.0 = Release|x64
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|x86.ActiveCfg = Release|x86
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|x86.Build.0 = Release|x86
+		{CA72CA8B-4BD8-4561-A869-B0934F3628CF}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66DC8341-0473-4AB1-8B45-7D2178C24DDA}
+	EndGlobalSection
+EndGlobal

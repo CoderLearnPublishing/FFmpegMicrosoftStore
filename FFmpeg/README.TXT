@@ -1,0 +1,1 @@
+Download and extract FFmpeg binaries from https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n4.4-latest-win64-gpl-4.4.zip before packaging with Visual Studio 2022
